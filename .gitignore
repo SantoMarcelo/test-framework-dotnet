@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+*.user
+TestResults/
+
+# Overrides locais de configuração (credenciais pessoais etc.)
+appsettings.local.json
